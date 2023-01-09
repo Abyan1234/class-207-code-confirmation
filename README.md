@@ -1,1 +1,2 @@
-# class-207-code-confirmation
+# PRO-C205-SA1
+Student activity boilerplate
